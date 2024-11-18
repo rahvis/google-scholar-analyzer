@@ -41,5 +41,25 @@ The simulation has been done on synthetic dataset. This visualizes the rankings 
 
 You can install the required dependencies using pip:
 
+`pip install dash plotly networkx`
+
+
+## Usage
+
 ```bash
-pip install dash plotly networkx
+from author_ranking import load_authors_data, generate_rankings, create_author_graph, generate_graph_figure
+
+# Load data
+authors_data = load_authors_data('path_to/authors.json')
+
+# Generate rankings
+rankings = generate_rankings(authors_data)
+
+# Create a graph
+G = create_author_graph(rankings)
+
+# Generate a graph figure
+fig = generate_graph_figure(G)
+
+
+
