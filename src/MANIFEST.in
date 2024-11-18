@@ -1,0 +1,2 @@
+# MANIFEST.in
+include author_ranking/authors.json

@@ -1,0 +1,9 @@
+MANIFEST.in
+setup.py
+author_ranking.egg-info/PKG-INFO
+author_ranking.egg-info/SOURCES.txt
+author_ranking.egg-info/dependency_links.txt
+author_ranking.egg-info/entry_points.txt
+author_ranking.egg-info/requires.txt
+author_ranking.egg-info/top_level.txt
+tests/test_ranking_calculator.py

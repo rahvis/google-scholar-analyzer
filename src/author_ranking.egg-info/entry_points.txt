@@ -1,0 +1,2 @@
+[console_scripts]
+author-ranking = author_ranking.app:main
