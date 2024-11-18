@@ -1,5 +1,5 @@
 
-# Author (Google Scholar) Rankings Dashboard
+# Author (Google Scholar) rankings dashboard
 
 The simulation has been done on synthetic dataset. This visualizes the rankings of authors based on a composite score derived from their publication and citation data. The dashboard allows users to interactively explore a network of authors and view detailed metrics for each author.
 
