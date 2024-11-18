@@ -1,9 +1,7 @@
-# google scholar analyzer
- Rank the authors based on Google Scholar profile
 
-# Author Rankings Dashboard
+# Author (Google Scholar) Rankings Dashboard
 
-This project visualizes the rankings of authors based on a composite score derived from their publication and citation data. The dashboard allows users to interactively explore a network of authors and view detailed metrics for each author.
+The simulation has been done on synthetic dataset. This visualizes the rankings of authors based on a composite score derived from their publication and citation data. The dashboard allows users to interactively explore a network of authors and view detailed metrics for each author.
 
 ## How It Works
 
